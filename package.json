@@ -52,13 +52,12 @@
     "node": ">=6.9.0",
     "npm": ">=3.0.0"
   },
-  "author": "CKSource (http://cksource.com/)",
+  "author": "Evan Rigby",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://ckeditor.com",
-  "bugs": "https://github.com/ckeditor/ckeditor5-build-classic/issues",
+  "bugs": "https://github.com/evanrigby/ckeditor5-build-classic/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/evanrigby/ckeditor5-custom-build.git"
   },
   "scripts": {
     "build": "webpack --mode production",
